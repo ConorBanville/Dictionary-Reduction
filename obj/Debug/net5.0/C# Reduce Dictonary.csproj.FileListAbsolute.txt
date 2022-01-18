@@ -1,0 +1,16 @@
+C:\Users\FiercePC\Desktop\C# Reduce Dictonary\obj\Debug\net5.0\C# Reduce Dictonary.csprojAssemblyReference.cache
+C:\Users\FiercePC\Desktop\C# Reduce Dictonary\obj\Debug\net5.0\C# Reduce Dictonary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FiercePC\Desktop\C# Reduce Dictonary\obj\Debug\net5.0\C# Reduce Dictonary.AssemblyInfoInputs.cache
+C:\Users\FiercePC\Desktop\C# Reduce Dictonary\obj\Debug\net5.0\C# Reduce Dictonary.AssemblyInfo.cs
+C:\Users\FiercePC\Desktop\C# Reduce Dictonary\obj\Debug\net5.0\C# Reduce Dictonary.csproj.CoreCompileInputs.cache
+C:\Users\FiercePC\Desktop\C# Reduce Dictonary\bin\Debug\net5.0\C# Reduce Dictonary.exe
+C:\Users\FiercePC\Desktop\C# Reduce Dictonary\bin\Debug\net5.0\C# Reduce Dictonary.deps.json
+C:\Users\FiercePC\Desktop\C# Reduce Dictonary\bin\Debug\net5.0\C# Reduce Dictonary.runtimeconfig.json
+C:\Users\FiercePC\Desktop\C# Reduce Dictonary\bin\Debug\net5.0\C# Reduce Dictonary.runtimeconfig.dev.json
+C:\Users\FiercePC\Desktop\C# Reduce Dictonary\bin\Debug\net5.0\C# Reduce Dictonary.dll
+C:\Users\FiercePC\Desktop\C# Reduce Dictonary\bin\Debug\net5.0\ref\C# Reduce Dictonary.dll
+C:\Users\FiercePC\Desktop\C# Reduce Dictonary\bin\Debug\net5.0\C# Reduce Dictonary.pdb
+C:\Users\FiercePC\Desktop\C# Reduce Dictonary\obj\Debug\net5.0\C# Reduce Dictonary.dll
+C:\Users\FiercePC\Desktop\C# Reduce Dictonary\obj\Debug\net5.0\ref\C# Reduce Dictonary.dll
+C:\Users\FiercePC\Desktop\C# Reduce Dictonary\obj\Debug\net5.0\C# Reduce Dictonary.pdb
+C:\Users\FiercePC\Desktop\C# Reduce Dictonary\obj\Debug\net5.0\C# Reduce Dictonary.genruntimeconfig.cache
